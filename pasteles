@@ -1,0 +1,2 @@
+var pasteles = "!vendo pasteles¡";
+console.log(pasteles);
